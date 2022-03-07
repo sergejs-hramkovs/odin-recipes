@@ -1,0 +1,40 @@
+* {
+  font-family: Helvetica, 'Times New Roman', sans-serif;
+}
+
+h1 {
+  text-align: center;
+  font-size: 50px;
+  background-color: black;
+  color: white;
+}
+
+h3 {
+  font-size: 30px;
+  background-color: gray;
+  color: white;
+}
+
+p {
+  background-color: lightblue;
+}
+
+ol{
+  background-color: antiquewhite;
+}
+
+ul {
+  background-color: lightcoral;
+}
+
+img {
+  display: block;
+  margin-left:auto;
+  margin-right: auto;
+}
+
+.home-list {
+  background-color: rgb(185, 174, 174);
+  font-size: 20px;
+  color: white;
+}
